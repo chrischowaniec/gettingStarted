@@ -46,7 +46,7 @@
 
 - run docker
         
-    docker run  -it -p8080:8080 hellodocker
+        docker run  -it -p8080:8080 hellodocker
 
 - open new terminal 
         
