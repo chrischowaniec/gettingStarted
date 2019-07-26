@@ -1,7 +1,7 @@
 # Git
 
  - [Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
- - Create A Git Hub Account
+ - Create A GitHub Account
  - [Create a pgp key](https://help.github.com/en/articles/generating-a-new-gpg-key)
  - Upload public key to git hub account
 
