@@ -1,3 +1,12 @@
+# The book
+
+![alt text](https://images-na.ssl-images-amazon.com/images/I/51IK1s4J-8L._SX379_BO1,204,203,200_.jpg "Logo Title Text 1")
+
+
+[Buy it here](https://www.amazon.com/Streaming-Systems-Where-Large-Scale-Processing/dp/1491983876/)
+
+
+
 # Git
 
  - [Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
