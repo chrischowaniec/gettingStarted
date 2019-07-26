@@ -23,7 +23,7 @@
 
 - Clone forked repo    
 
-         git clone git@github.com:<UserName>helloWorld.git 
+         git clone git@github.com:<UserName>/helloWorld.git 
 
         cd hellowWorld
 
