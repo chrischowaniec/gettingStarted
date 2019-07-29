@@ -34,7 +34,7 @@
 
          git clone git@github.com:<UserName>/helloWorld.git 
 
-        cd hellowWorld
+        cd helloWorld
 
 - build application:
 
