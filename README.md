@@ -60,3 +60,8 @@
 - open new terminal 
         
         curl http://localhost:8080/helloWorld
+
+
+# IDE
+
+- Install [IntelliJ IDEA Comunity](https://www.jetbrains.com/idea/download/#section=mac)
