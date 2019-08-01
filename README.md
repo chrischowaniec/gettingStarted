@@ -16,7 +16,7 @@
 
 # Java
 
-- [Install Java 12](https://jdk.java.net/12/)
+- [Install Java 8](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
 ### Test instalation: 
         java --version
 
